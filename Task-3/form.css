@@ -1,0 +1,59 @@
+.border {
+    border: 10px solid yellow;
+    width: max-content;
+    margin: 20px;
+    display: inline-block;
+    padding: 15px;
+
+}
+
+input {
+    padding: 15px;
+    border-radius: 15px;
+}
+
+.border2 {
+    display: inline-block;
+    border: 2xp solid red;
+    padding: 10px;
+
+}
+
+.border3 {
+    display: inline-block;
+    border: 5px solid yellow;
+    padding: 15px;
+
+}
+
+.width {
+    display: inline-block;
+}
+
+.way {
+    display: inline-block;
+
+}
+
+.select {
+    width: 150px;
+    height: 20px;
+}
+
+.border4 {
+    display: inline-block;
+    border: 5px solid yellow;
+}
+
+.border,
+.border2,
+.border3,
+.border4 {
+    border: 5px solid yellow;
+    margin-inline-start: 5px;
+    border: 1px solid;
+    padding: 10px;
+    box-shadow: 5px 10px;
+    float: left;
+
+    }
